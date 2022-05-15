@@ -3,8 +3,10 @@
 
 ![Made with Python](https://img.shields.io/badge/made%20with-python-blue.svg)
 [![Join the chat at https://gitter.im/smarthomeNG/smarthome](https://badges.gitter.im/smarthomeNG/smarthome.svg)](https://gitter.im/smarthomeNG/smarthome?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![GitHub forks](https://badgen.net/github/forks/smarthomeNG/smarthome/)](https://GitHub.com/smarthomeNG/smarthome/network/)
 
 [![GitHub license](https://img.shields.io/github/license/smarthomeNG/smarthome.svg)](https://github.com/smarthomeNG/smarthome/blob/master/LICENSE)
+
 
 <br>
 
