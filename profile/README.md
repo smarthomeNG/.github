@@ -77,7 +77,7 @@ The rest of the repositories are for use by the development team:
 * [shngadmin](https://github.com/smarthomeNG/shngadmin)
   The Core and many of its plugins can be controlled via a web interface. It is created with Typescript and Angular 7 currently and here the source of the GUI is found
   
-* [ansible](https://github.com/smarthomeNG/ansible) Repository with the scripts used to build the raspberrypi immage
+* [ansible](https://github.com/smarthomeNG/ansible) Repository with the scripts used to build the raspberrypi image
 
 * [shng-install](https://github.com/smarthomeNG/shng-install) work in progress
   
