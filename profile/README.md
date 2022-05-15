@@ -51,10 +51,13 @@ There are already several repositiories containing different parts of SmartHomeN
 ![Github Tag](https://img.shields.io/github/downloads/smarthomeng/raspberrypi-image/10.1.7.1/total.svg)
 ![Github Tag](https://img.shields.io/github/downloads/smarthomeng/raspberrypi-image/9.1.6/total.svg)
 
+  [![Github all releases](https://img.shields.io/github/downloads/smarthomeng/raspberrypi-image/total.svg)](https://GitHub.com/smarthomeng/raspberrypi-image/releases/)
+
 
 * [docker](https://github.com/smarthomeNG/docker)  This repo contains a docker container and dokumentation for SmartHomeNG
 
   master: ![Github Tag](https://img.shields.io/github/v/tag/smarthomeng/docker?sort=semver)
+
 
 * [plugin_archive](https://github.com/smarthomeNG/plugin_archive)
   Older plugins that are not maintained any more or the ones being obsolete due to a switched off service are kept here for reference
