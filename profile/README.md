@@ -11,7 +11,7 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-There are already several repositiories containing different parts of SmartHomeNG:
+There are already several repositiories containing different parts of SmartHomeNG. Of interest for users of SmartHomeNG are only the following four of them:
 
 * [smarthome](https://github.com/smarthomeNG/smarthome)
   The Core of the application resides in this Repository
@@ -19,6 +19,15 @@ There are already several repositiories containing different parts of SmartHomeN
 * [plugins](https://github.com/smarthomeNG/plugins)
   The Core may be extended by several plugins which provide additional functionality for gateways, devices, etc.
   Here the plugins have found their home
+  
+* [raspberrypi-image](https://github.com/smarthomeNG/raspberrypi-image) This repository conains a "ready to use" image for the Raspberry Pi
+  
+* [docker](https://github.com/smarthomeNG/docker)  SmartHomeNG can also be installed by means of a dockerfile
+
+  
+-------
+
+The rest of the repositories are for use bby the development team:
   
 * [Developer Documentation](https://github.com/smarthomeNG/dev_doc)
   The documentation of the current develop branch
@@ -29,11 +38,6 @@ There are already several repositiories containing different parts of SmartHomeN
 * [ansible](https://github.com/smarthomeNG/ansible)
 
 * [shng-install](https://github.com/smarthomeNG/shng-install)
-
-* [raspberrypi-image](https://github.com/smarthomeNG/raspberrypi-image)
-
-* [docker](https://github.com/smarthomeNG/docker)
-  SmartHomeNG can also be installed by means of a dockerfile
   
 * [plugin_archive](https://github.com/smarthomeNG/plugin_archive)
   Older plugins that are not maintained any more or the ones being obsolete due to a switched off service are kept here for reference
