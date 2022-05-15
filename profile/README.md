@@ -3,6 +3,9 @@
 
 ![Made with Python](https://img.shields.io/badge/made%20with-python-blue.svg)
 [![Join the chat at https://gitter.im/smarthomeNG/smarthome](https://badges.gitter.im/smarthomeNG/smarthome.svg)](https://gitter.im/smarthomeNG/smarthome?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
+[![GitHub license](https://img.shields.io/github/license/smarthomeNG/smarthome.svg)](https://github.com/smarthomeNG/smarthome/blob/master/LICENSE)
+
 <br>
 
 ## SmartHomeNG repository ecosystem
@@ -51,6 +54,7 @@ There are already several repositiories containing different parts of SmartHomeN
 
 * [docker](https://github.com/smarthomeNG/docker)  This repo contains a docker container and dokumentation for SmartHomeNG
 
+  master: ![Github Tag](https://img.shields.io/github/v/tag/smarthomeng/docker?sort=semver)
 
 * [plugin_archive](https://github.com/smarthomeNG/plugin_archive)
   Older plugins that are not maintained any more or the ones being obsolete due to a switched off service are kept here for reference
