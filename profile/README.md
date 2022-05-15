@@ -18,7 +18,7 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-There are already several repositiories containing different parts of SmartHomeNG. Of interest for users of SmartHomeNG are only the following of them. Most users will only use the first two (*smarthome* and *plugins*):
+There are already several repositiories containing different parts of SmartHomeNG. Of interest for users of SmartHomeNG are only the following of them. Most users will only use the first two (***smarthome*** and ***plugins***):
 
 * [smarthome](https://github.com/smarthomeNG/smarthome)
   The Core of the application resides in this Repository
