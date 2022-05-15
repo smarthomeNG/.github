@@ -44,16 +44,17 @@ There are already several repositiories containing different parts of SmartHomeN
   develop: [![Aktuelles Release](https://img.shields.io/github/workflow/status/smarthomeNG/plugins/Unittest%20Workflow%20Plugins/develop)](https://github.com/smarthomeNG/plugins/actions/workflows/unittests.yml)
 
 
-* [raspberrypi-image](https://github.com/smarthomeNG/raspberrypi-image) This repository conains a "ready to use" image for the Raspberry Pi
+* [raspberrypi-image](https://github.com/smarthomeNG/raspberrypi-image) This repository conains a "ready to use" image for the Raspberry Pi. It contains SmartHomeNG, the smartVISU and other tools.
+  The release number is a combination of the Debian/RaspiOS version followed by the SmartHomeNG version.
 
   master: ![Github Tag](https://img.shields.io/github/v/release/smarthomeng/raspberrypi-image?sort=semver)
-![Github Tag](https://img.shields.io/github/downloads/smarthomeng/raspberrypi-image/11.1.9.2/total.svg)
+[![Github all releases](https://img.shields.io/github/downloads/smarthomeng/raspberrypi-image/total.svg)](https://GitHub.com/smarthomeng/raspberrypi-image/releases/)
+  
+  ![Github Tag](https://img.shields.io/github/downloads/smarthomeng/raspberrypi-image/11.1.9.2/total.svg)
 ![Github Tag](https://img.shields.io/github/downloads/smarthomeng/raspberrypi-image/11.1.9.1/total.svg)
 ![Github Tag](https://img.shields.io/github/downloads/smarthomeng/raspberrypi-image/11.1.8.2/total.svg)
 ![Github Tag](https://img.shields.io/github/downloads/smarthomeng/raspberrypi-image/10.1.7.1/total.svg)
 ![Github Tag](https://img.shields.io/github/downloads/smarthomeng/raspberrypi-image/9.1.6/total.svg)
-
-  [![Github all releases](https://img.shields.io/github/downloads/smarthomeng/raspberrypi-image/total.svg)](https://GitHub.com/smarthomeng/raspberrypi-image/releases/)
 
 
 * [docker](https://github.com/smarthomeNG/docker)  This repo contains a docker container and dokumentation for SmartHomeNG
@@ -71,7 +72,7 @@ There are already several repositiories containing different parts of SmartHomeN
 The rest of the repositories are for use by the development team:
   
 * [Developer Documentation](https://github.com/smarthomeNG/dev_doc)
-  The documentation of the current develop branch
+  Helper repository for the automatic build of the documentation from the develop branch. No manual commmits occur.
   
 * [shngadmin](https://github.com/smarthomeNG/shngadmin)
   The Core and many of its plugins can be controlled via a web interface. It is created with Typescript and Angular 7 currently and here the source of the GUI is found
