@@ -1,6 +1,7 @@
 ## SmartHomeNG
 **SmartHomeNG** is the open-source integration platform for your smart home
 
+![Made with Python](https://img.shields.io/badge/made%20with-python-blue.svg)
 [![Join the chat at https://gitter.im/smarthomeNG/smarthome](https://badges.gitter.im/smarthomeNG/smarthome.svg)](https://gitter.im/smarthomeNG/smarthome?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 <br>
 
@@ -23,11 +24,9 @@ There are already several repositiories containing different parts of SmartHomeN
   The Core of the application resides in this Repository
 
   master: ![Github Tag](https://img.shields.io/github/v/release/smarthomeng/smarthome?sort=semver)
-![Made with Python](https://img.shields.io/badge/made%20with-python-blue.svg)
 [![Aktuelles Release](https://img.shields.io/github/workflow/status/smarthomeNG/smarthome/Unittest%20Workflow%20Core/master)](https://github.com/smarthomeNG/smarthome/actions/workflows/unittests.yml)
 
   develop: [![Aktuelles Release](https://img.shields.io/github/workflow/status/smarthomeNG/smarthome/SmartHomeNG%20Unittest%20Workflow%20Core/develop)](https://github.com/smarthomeNG/smarthome/actions/workflows/unittests.yml)
-
 
 
 * [plugins](https://github.com/smarthomeNG/plugins)
@@ -35,22 +34,32 @@ There are already several repositiories containing different parts of SmartHomeN
   Here the plugins have found their home
   
   master: ![Github Tag](https://img.shields.io/github/v/release/smarthomeng/plugins?sort=semver)
-![Made with Python](https://img.shields.io/badge/made%20with-python-blue.svg)
 [![Aktuelles Release](https://img.shields.io/github/workflow/status/smarthomeNG/plugins/Unittest%20Workflow%20Plugins/master)](https://github.com/smarthomeNG/plugins/actions/workflows/unittests.yml)
 
   develop: [![Aktuelles Release](https://img.shields.io/github/workflow/status/smarthomeNG/plugins/Unittest%20Workflow%20Plugins/develop)](https://github.com/smarthomeNG/plugins/actions/workflows/unittests.yml)
 
+
 * [raspberrypi-image](https://github.com/smarthomeNG/raspberrypi-image) This repository conains a "ready to use" image for the Raspberry Pi
-  
+
+  master: ![Github Tag](https://img.shields.io/github/v/release/smarthomeng/raspberrypi-image?sort=semver)
+![Github Tag](https://img.shields.io/github/downloads/smarthomeng/raspberrypi-image/11.1.9.2/total.svg)
+![Github Tag](https://img.shields.io/github/downloads/smarthomeng/raspberrypi-image/11.1.9.1/total.svg)
+![Github Tag](https://img.shields.io/github/downloads/smarthomeng/raspberrypi-image/11.1.8.2/total.svg)
+![Github Tag](https://img.shields.io/github/downloads/smarthomeng/raspberrypi-image/10.1.7.1/total.svg)
+![Github Tag](https://img.shields.io/github/downloads/smarthomeng/raspberrypi-image/9.1.6/total.svg)
+
+
 * [docker](https://github.com/smarthomeNG/docker)  This repo contains a docker container and dokumentation for SmartHomeNG
+
 
 * [plugin_archive](https://github.com/smarthomeNG/plugin_archive)
   Older plugins that are not maintained any more or the ones being obsolete due to a switched off service are kept here for reference
 
-  
+<br>
+
 -------
 
-The rest of the repositories are for use bby the development team:
+The rest of the repositories are for use by the development team:
   
 * [Developer Documentation](https://github.com/smarthomeNG/dev_doc)
   The documentation of the current develop branch
