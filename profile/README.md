@@ -31,9 +31,9 @@ There are already several repositiories containing different parts of SmartHomeN
   The Core of the application resides in this Repository
 
   master: ![Github Tag](https://img.shields.io/github/v/release/smarthomeng/smarthome?sort=semver)
-[![Aktuelles Release](https://img.shields.io/github/workflow/status/smarthomeNG/smarthome/Unittest%20Workflow%20Core/master)](https://github.com/smarthomeNG/smarthome/actions/workflows/unittests.yml)
+[![Aktuelles Release](https://img.shields.io/github/workflow/status/smarthomeNG/smarthome/Unittests%20Core/master)](https://github.com/smarthomeNG/smarthome/actions/workflows/unittests.yml)
 
-  develop: [![Aktuelles Release](https://img.shields.io/github/workflow/status/smarthomeNG/smarthome/SmartHomeNG%20Unittest%20Workflow%20Core/develop)](https://github.com/smarthomeNG/smarthome/actions/workflows/unittests.yml)
+  develop: [![Aktuelles Release](https://img.shields.io/github/workflow/status/smarthomeNG/smarthome/Unittests%20Core/develop)](https://github.com/smarthomeNG/smarthome/actions/workflows/unittests.yml)
 
 
 * [plugins](https://github.com/smarthomeNG/plugins)
@@ -41,9 +41,9 @@ There are already several repositiories containing different parts of SmartHomeN
   Here the plugins have found their home
   
   master: ![Github Tag](https://img.shields.io/github/v/release/smarthomeng/plugins?sort=semver)
-[![Aktuelles Release](https://img.shields.io/github/workflow/status/smarthomeNG/plugins/Unittest%20Workflow%20Plugins/master)](https://github.com/smarthomeNG/plugins/actions/workflows/unittests.yml)
+[![Aktuelles Release](https://img.shields.io/github/workflow/status/smarthomeNG/plugins/Unittests%20Plugins/master)](https://github.com/smarthomeNG/plugins/actions/workflows/unittests.yml)
 
-  develop: [![Aktuelles Release](https://img.shields.io/github/workflow/status/smarthomeNG/plugins/Unittest%20Workflow%20Plugins/develop)](https://github.com/smarthomeNG/plugins/actions/workflows/unittests.yml)
+  develop: [![Aktuelles Release](https://img.shields.io/github/workflow/status/smarthomeNG/plugins/Unittests%20Plugins/develop)](https://github.com/smarthomeNG/plugins/actions/workflows/unittests.yml)
 
 
 * [raspberrypi-image](https://github.com/smarthomeNG/raspberrypi-image) This repository conains a "ready to use" image for the Raspberry Pi. It contains SmartHomeNG, the smartVISU and other tools.
