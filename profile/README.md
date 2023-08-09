@@ -33,7 +33,7 @@ There are already several repositiories containing different parts of SmartHomeN
   master: ![Github Tag](https://img.shields.io/github/v/release/smarthomeng/smarthome?sort=semver)
 [![Aktuelles Release](https://img.shields.io/github/actions/workflow/status/smarthomeNG/smarthome/unittests.yml?branch=master)](https://github.com/smarthomeNG/smarthome/actions/workflows/unittests.yml)
 
-  develop: [![Aktueller Stand](https://img.shields.io/github/workflow/status/smarthomeNG/smarthome/Unittests/develop)](https://github.com/smarthomeNG/smarthome/actions/workflows/unittests.yml)
+  develop: [![Aktueller Stand](https://img.shields.io/github/workflow/status/smarthomeNG/smarthome/Unittests.yml?branch=develop)](https://github.com/smarthomeNG/smarthome/actions/workflows/unittests.yml)
 
 
 * [plugins](https://github.com/smarthomeNG/plugins)
