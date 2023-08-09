@@ -43,9 +43,7 @@ There are already several repositiories containing different parts of SmartHomeN
   master: ![Github Tag](https://img.shields.io/github/v/release/smarthomeng/plugins?sort=semver)
 [![Aktuelles Release](https://img.shields.io/github/actions/workflow/status/smarthomeNG/plugins/unittests.yml?branch=master)](https://github.com/smarthomeNG/plugins/actions/workflows/unittests.yml)
 
-  develop: [![Aktuelles Release](https://img.shields.io/github/workflow/status/smarthomeNG/plugins/Unittests%20Plugins/develop)](https://github.com/smarthomeNG/plugins/actions/workflows/unittests.yml)
-
-[![Aktuelles Release](https://img.shields.io/github/actions/workflow/status/smarthomeNG/plugins/unittests.yml?branch=develop)](https://github.com/smarthomeNG/plugins/actions/workflows/unittests.yml)
+  develop: [![Aktuelles Release](https://img.shields.io/github/actions/workflow/status/smarthomeNG/plugins/unittests.yml?branch=develop)](https://github.com/smarthomeNG/plugins/actions/workflows/unittests.yml)
 
 
 * [raspberrypi-image](https://github.com/smarthomeNG/raspberrypi-image) This repository conains a "ready to use" image for the Raspberry Pi. It contains SmartHomeNG, the smartVISU and other tools.
